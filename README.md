@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShadoCyborg
+- 👋 Hi, I’m @Adithya
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning C++, Git/Github & Unreal Engine
 - 💞️ I’m looking to collaborate on ...
