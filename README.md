@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Adithya
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning C++, Git/Github & Unreal Engine
+- 👋 Hi, I’m @AdithyaUnreal Engine
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
